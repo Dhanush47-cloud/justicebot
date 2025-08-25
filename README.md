@@ -18,3 +18,9 @@ JusticeBot is an AI-powered legal rights assistant designed to support SDG 16: P
 - **APIs:** Dialogflow (AI chatbot), IBM Cloud (optional AI tools)
 - **Deployment:** Runs on Replit, with optional Firebase Hosting integration
 
+# ⚖️ JusticeBot  
+
+👉 [Run JusticeBot on Replit](# ⚖️ JusticeBot  
+
+👉 [Run JusticeBot on Replit](https://replit.com/@your-username/justicebot)  
+
