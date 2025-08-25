@@ -22,5 +22,5 @@ JusticeBot is an AI-powered legal rights assistant designed to support SDG 16: P
 
 👉 [Run JusticeBot on Replit](# ⚖️ JusticeBot  
 
-👉 [Run JusticeBot on Replit](https://replit.com/@your-username/justicebot)  
+👉 [Run JusticeBot on Replit](https://replit.com/@dh7742806/justicebot-webpage?s=app)  
 
