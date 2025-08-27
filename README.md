@@ -1,6 +1,6 @@
 # JusticeBot
 
-## Overview
+## Overview  
 JusticeBot is an AI-powered legal rights assistant designed to support SDG 16: Peace, Justice, and Strong Institutions. It helps users understand their legal rights and file & track grievances through an interactive chatbot interface.
 
 ## Features
